@@ -23,11 +23,18 @@ captions[4] = [
 "You sneak into the school cafeteria and swiftly snatch all the Dootos™ from the back room without making a sound. Now the school's entire supply of Dootos™ is finally yours. (The rest of the cafeteria food was decidedly Not Very Tasty.)<br><br>You wonder what the red button does. Hmm.. that could be dangerous. It's not good to bring attention to yourself at this time. (However, if the urge comes to you, there really is no way to stop it...)"
 ];
 
+captions[5] = [
+"A shiver travels down your spine and your heart races as you remember the terrible Dootos™ Incident...<br><br>One year ago, an unidentified masked person entered the campus carrying an incendiary explosive made from Spicy Hot Dootos™ dust. The entire school was suddenly engulfed in flames and evacuated.<br><br>You remember smelling the burnt Dooto™ dust everywhere... and the earth-shattering explosions in every direction... and... ██████████████...<br><br>It was never disclosed how many people lived or died. Discussing the Incident has been strictly forbidden ever since.",
+
+"While you were having the flashbacks, a school administrator sneaks up behind you, suspicious of what you are up to.<br><br>Admin: <b>What are you doing with all these Dootos™???</b>"
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
 "\"Teacher, can we review 'Dee's'\"?",
 "Raid the cafeteria for food while everyone else is in class",
+"shiver and recall The Dootos™ Incident"
 ];
 
 class Panel {
