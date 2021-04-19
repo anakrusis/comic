@@ -29,12 +29,19 @@ captions[5] = [
 "While you were having the flashbacks, a school administrator sneaks up behind you, suspicious of what you are up to.<br><br>Admin: <b>What are you doing with all these Dootos™???</b>"
 ]
 
+captions[6] = [
+"Accord: <b>IM NOT BUILDING EXPLOSIVES</b><br>Admin: ...<br>Admin: ...<br>Admin: ...",
+"Admin: Well... okay, if you say so. <br>Admin: Also... you should... get back to class!! There's... umm... an hour till lunch!",
+"The cafeteria is totally empty once more. The red button is still there unpressed, but it is probably unwise to press it.<br> Your teacher might be waiting for you... or perhaps enjoying the peace and quiet? You could choose to return to class, or go somewhere else instead... <br><br>Also, what in the world are you going to do with all those Dootos™???"
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
 "\"Teacher, can we review 'Dee's'\"?",
 "Raid the cafeteria for food while everyone else is in class",
-"shiver and recall The Dootos™ Incident"
+"shiver and recall The Dootos™ Incident",
+"immediately blurt out that you're not building explosives"
 ];
 
 class Panel {
