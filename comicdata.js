@@ -35,13 +35,20 @@ captions[6] = [
 "The cafeteria is totally empty once more. The red button is still there unpressed, but it is probably unwise to press it.<br> Your teacher might be waiting for you... or perhaps enjoying the peace and quiet? You could choose to return to class, or go somewhere else instead... <br><br>Also, what in the world are you going to do with all those Dootos™???"
 ]
 
+captions[7] = [
+"You try to pick up the red button. Huh... you're right! It isn't attached to anything. But there is this warning written on it... hmm... this is probably just inconsequential boilerplate text...",
+"(You have obtained the Emergency Button. Try not to sit a certain way or it might go off in your pocket...)",
+"You are still walking around the cafeteria. The clock says 11:03 AM-- 57 minutes till lunch. There isn't anyone in sight. What do you do now?"
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
 "\"Teacher, can we review 'Dee's'\"?",
 "Raid the cafeteria for food while everyone else is in class",
 "shiver and recall The Dootos™ Incident",
-"immediately blurt out that you're not building explosives"
+"immediately blurt out that you're not building explosives",
+"Take the red button with you for later, just in case. Nobody ever said it was attached to anything....!"
 ];
 
 class Panel {
@@ -145,3 +152,4 @@ var innercode = maindiv.innerHTML;
 innercode += page.getHTML();
 
 maindiv.innerHTML = innercode;
+
