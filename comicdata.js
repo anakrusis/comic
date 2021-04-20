@@ -153,3 +153,14 @@ innercode += page.getHTML();
 
 maindiv.innerHTML = innercode;
 
+if( window.localStorage )
+{
+if( !localStorage.getItem('firstLoad') )
+{
+  localStorage['firstLoad'] = true;
+  window.location.reload(true); console.log("loaded without cache");
+}  
+else
+  localStorage.removeItem('firstLoad');
+}
+
