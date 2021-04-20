@@ -80,7 +80,7 @@ class Page {
 		this.panels = [];
 		this.index  = index;
 		
-		for (i = 0; i < captions[index].length; i++){
+		for (var i = 0; i < captions[index].length; i++){
 			
 			this.addPanel( new Panel() );
 			
@@ -110,7 +110,7 @@ class Page {
 		
 		// Contents of all panels
 		
-		for (i = 0; i < this.panels.length; i++){
+		for (var i = 0; i < this.panels.length; i++){
 			var panel = this.panels[i];
 			
 			code += panel.getHTML();

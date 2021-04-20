@@ -1,19 +1,19 @@
 body {
 	font-size: 20px;
-	background-color: #ffddff;
-	color: purple;
+	background-color: #777777;
+	color: black;
 	font-family: sans-serif;
 }
 
 div {
-	border: 4px dotted #eeaaee;
+	border: 4px dotted #cccccc;
 	background-color: white;
 }
 
 .maindiv {
 	margin: auto;
 	width: 50%;
-	background-color: #ccddff;
+	background-color: #cccccc;
 	padding: 10px;
 }
 
