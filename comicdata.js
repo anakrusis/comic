@@ -41,6 +41,11 @@ captions[7] = [
 "You are still walking around the cafeteria. The clock says 11:03 AM-- 57 minutes till lunch. There isn't anyone in sight. What do you do now?"
 ]
 
+captions[8] = [
+"You peek under the table and--<br><br>Accord: <b>AAAAAAAAAAAAAAAAAA</b>",
+"Accord: <b>AAAARGHHH!! A talking button!!!</b><br>??????: ...<br> ??????: A button I am not... if you press me it will do you no good... Honda Accord, I expected your arrival. I know exactly what brought you here, the result of your many urges within."
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
@@ -48,7 +53,8 @@ var commands = [
 "Raid the cafeteria for food while everyone else is in class",
 "shiver and recall The Dootos™ Incident",
 "immediately blurt out that you're not building explosives",
-"Take the red button with you for later, just in case. Nobody ever said it was attached to anything....!"
+"Take the red button with you for later, just in case. Nobody ever said it was attached to anything....!",
+"No button lies alone. Look under the table."
 ];
 
 class Panel {
