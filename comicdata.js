@@ -46,6 +46,11 @@ captions[8] = [
 "Accord: <b>AAAARGHHH!! A talking button!!!</b><br>??????: ...<br> ??????: A button I am not... if you press me it will do you no good... Honda Accord, I expected your arrival. I know exactly what brought you here, the result of your many urges within."
 ]
 
+captions[9] = [
+"You pick up the strange orb and begin biting into it. The orb stoically shows no sign of resistance. It does not say a word.<br>You find the ball to be easily chewable, and your mouth is quickly filled with an incredibly bitter and possibly moldy taste.",
+"As you chew on the ball you feel a strange warmth like nothing you have ever felt before. Soon afterward you start feeling extremely nauseated and begin wandering the hallways aimlessly. You aren't sure what time it is anymore.<br><br>Your classroom is right by here. The nurse's office is also not far away. Where do you go now?"
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
@@ -54,7 +59,8 @@ var commands = [
 "shiver and recall The Dootos™ Incident",
 "immediately blurt out that you're not building explosives",
 "Take the red button with you for later, just in case. Nobody ever said it was attached to anything....!",
-"No button lies alone. Look under the table."
+"No button lies alone. Look under the table.",
+"Attempt to put the head in your mouth and chew."
 ];
 
 class Panel {
