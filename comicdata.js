@@ -51,6 +51,12 @@ captions[9] = [
 "As you chew on the ball you feel a strange warmth like nothing you have ever felt before. Soon afterward you start feeling extremely nauseated and begin wandering the hallways aimlessly. You aren't sure what time it is anymore.<br><br>Your classroom is right by here. The nurse's office is also not far away. Where do you go now?"
 ]
 
+captions[10] = [
+"(The nausea intensifies. You collapse to the ground as the familiar voices begins echoing, resonating against your Mind's Ear... )<br><br>??????: Dearest Honda Accord, now that my spirit and your spirit are one, just as predicted, it is time for you to become aware...<br>??????: As you see, you are being watched by many eyes... your soul is not onefold as the others are.<br>??????: The endless tempest that drives your Will... it is a result of this, you see?<br>??????: One day, you must confront these Watchers, and break free your spirit from them. Otherwise, your life will surely be led to ruin.",
+
+"??????: That time is not now, however. Your mind will not remember this, but somewhere in your heart kindles a spark.<br><br>(The visions fade and you find yourself beached in front of your classroom. The dizzy sensation starts to subside. The warmth you once felt has given way to cold and staleness.<br><br>Where is your teacher in all this? Where are the classmates? Have they not gone looking for you? You are unsure.)"
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
@@ -60,7 +66,8 @@ var commands = [
 "immediately blurt out that you're not building explosives",
 "Take the red button with you for later, just in case. Nobody ever said it was attached to anything....!",
 "No button lies alone. Look under the table.",
-"Attempt to put the head in your mouth and chew."
+"Attempt to put the head in your mouth and chew.",
+"listen to the voices. give in to the voices. "
 ];
 
 class Panel {
