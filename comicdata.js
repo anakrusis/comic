@@ -57,6 +57,12 @@ captions[10] = [
 "??????: That time is not now, however. Your mind will not remember this, but somewhere in your heart kindles a spark.<br><br>(The visions fade and you find yourself beached in front of your classroom. The dizzy sensation starts to subside. The warmth you once felt has given way to cold and staleness.<br><br>Where is your teacher in all this? Where are the classmates? Have they not gone looking for you? You are unsure.)"
 ]
 
+captions[11] = [
+"You open up your cellular device and sign into FaceSpace. You begin posting about your bizarre experiences so as to not forget them. Within minutes, your writings are immediately ridiculed by the other students. After all, this is a school for ordinary, normal students. Why would you be here if you were special as the ball-headed being claimed?",
+
+"You are sitting in the hallway reading all the mocking replies when... oh no... it's almost noon. In a few moments, it will be lunchtime, and the halls will be filled with people. What are you going to do? Will you find a place to hide, or subject yourself to even more bullying?"
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
@@ -67,7 +73,8 @@ var commands = [
 "Take the red button with you for later, just in case. Nobody ever said it was attached to anything....!",
 "No button lies alone. Look under the table.",
 "Attempt to put the head in your mouth and chew.",
-"listen to the voices. give in to the voices. "
+"listen to the voices. give in to the voices.",
+"Excitedly post on your Facespace: \"just had the wildest trip haha.. endless tempest man\"",
 ];
 
 class Panel {
