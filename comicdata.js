@@ -63,6 +63,11 @@ captions[11] = [
 "You are sitting in the hallway reading all the mocking replies when... oh no... it's almost noon. In a few moments, it will be lunchtime, and the halls will be filled with people. What are you going to do? Will you find a place to hide, or subject yourself to even more bullying?"
 ]
 
+captions[12] = [
+"You hurry to the janitor's storage room, and make it in the door just as the lunch bell rings. On first glance, the room is dimly lit and a little bit eerie.",
+"On closer inspection, the room is more than a little eerie. Cockroaches and spiders are crawling along the walls... noxious chemicals with vile odors line the shelves. The fumes are uncomfortable to breathe in.<br>Directly above you, there is a single vent-- possibly the only way out of this room besides the door you came in."
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
@@ -75,6 +80,7 @@ var commands = [
 "Attempt to put the head in your mouth and chew.",
 "listen to the voices. give in to the voices.",
 "Excitedly post on your Facespace: \"just had the wildest trip haha.. endless tempest man\"",
+"Run and hide in the janitor's storage room."
 ];
 
 class Panel {
