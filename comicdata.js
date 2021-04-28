@@ -68,6 +68,12 @@ captions[12] = [
 "On closer inspection, the room is more than a little eerie. Cockroaches and spiders are crawling along the walls... noxious chemicals with vile odors line the shelves. The fumes are uncomfortable to breathe in.<br>Directly above you, there is a single vent-- possibly the only way out of this room besides the door you came in."
 ]
 
+captions[13] = [
+"You reach for the container lying on the shelf marked \"LYE\" and open it up. The container is strangely warm.<br><br>As it turns out, the manufacturer was lying. There is only an assortment of Hot Chip inside. Steaming, scalding circuitry floats upon a strange liquid flux. The dissapointment within you grows greater with each approaching moment.",
+
+"Just as you take the deceitful container down from the shelf to get a better look, the door begins to creak open. The janitor is about to come in. What do you do?"
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
@@ -80,7 +86,8 @@ var commands = [
 "Attempt to put the head in your mouth and chew.",
 "listen to the voices. give in to the voices.",
 "Excitedly post on your Facespace: \"just had the wildest trip haha.. endless tempest man\"",
-"Run and hide in the janitor's storage room."
+"Run and hide in the janitor's storage room.",
+"notice the lye on the shelf. find the truth behind this lye.",
 ];
 
 class Panel {
