@@ -74,6 +74,11 @@ captions[13] = [
 "Just as you take the deceitful container down from the shelf to get a better look, the door begins to creak open. The janitor is about to come in. What do you do?"
 ]
 
+captions[14] = [
+"Janitor: hmm... my broom looks a lil strange today...?<br>Janitor: ...<br>Janitor: ... mmh. probably just my imagination... doo do doooo...",
+"Janitor: it aren't cleaning the floor very well neither... hmhm... oh well...<br>Janitor: hopefully this spot comes out eventually...<br>Janitor: until thennn... ummm... uhhh... i'll just keep sweeping... doo do dooo do doo..."
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
@@ -88,6 +93,7 @@ var commands = [
 "Excitedly post on your Facespace: \"just had the wildest trip haha.. endless tempest man\"",
 "Run and hide in the janitor's storage room.",
 "notice the lye on the shelf. find the truth behind this lye.",
+"quickly drop the jar, go to the corner and do a headstand against the walls- your best impression of a Broom!"
 ];
 
 class Panel {
