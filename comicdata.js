@@ -75,8 +75,13 @@ captions[13] = [
 ]
 
 captions[14] = [
-"Janitor: hmm... my broom looks a lil strange today...?<br>Janitor: ...<br>Janitor: ... mmh. probably just my imagination... doo do doooo...",
+"Janitor: hmm... my broom looks a lil bit strange today, huh...?<br>Janitor: ...<br>Janitor: ... mmh. probably just my imagination... doo do doooo...",
 "Janitor: it aren't cleaning the floor very well neither... hmhm... oh well...<br>Janitor: hopefully this spot comes out eventually...<br>Janitor: until thennn... ummm... uhhh... i'll just keep sweeping... doo do dooo do doo..."
+]
+
+captions[15] = [
+"You attempt to noclip through the floor by rapidly squashing and thrusting your body downward. Though this technique eludes you still, as you cannot defy the laws of physics, the sudden movement is enough to free yourself from the janitor's grasp.",
+"You quickly stride away down a nearby hallway to one of the locker areas. By now most of the students are in the cafeteria having lunch, but some are still on their way there.<br>Where do you go now?"
 ]
 
 var commands = [ 
@@ -93,7 +98,8 @@ var commands = [
 "Excitedly post on your Facespace: \"just had the wildest trip haha.. endless tempest man\"",
 "Run and hide in the janitor's storage room.",
 "notice the lye on the shelf. find the truth behind this lye.",
-"quickly drop the jar, go to the corner and do a headstand against the walls- your best impression of a Broom!"
+"quickly drop the jar, go to the corner and do a headstand against the walls- your best impression of a Broom!",
+"escape by noclipping through the floor"
 ];
 
 class Panel {
