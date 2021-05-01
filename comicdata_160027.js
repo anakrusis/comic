@@ -69,7 +69,7 @@ captions[12] = [
 ]
 
 captions[13] = [
-"You reach for the container lying on the shelf marked \"LYE\" and open it up. The container is strangely warm.<br><br>As it turns out, the manufacturer was lying. There is only an assortment of Hot Chip inside. Steaming, scalding circuitry floats upon a strange liquid flux. The dissapointment within you grows greater with each approaching moment.",
+"You reach for the container lying on the shelf marked \"LYE\" and open it up. The container is unexpectedly warm.<br><br>As it turns out, the manufacturer was lying. There is only an assortment of Hot Chip inside. Steaming, scalding circuitry floats upon a strange liquid flux. The dissapointment within you grows greater with each approaching moment.",
 
 "Just as you take the deceitful container down from the shelf to get a better look, the door begins to creak open. The janitor is about to come in. What do you do?"
 ]
@@ -82,6 +82,12 @@ captions[14] = [
 captions[15] = [
 "You attempt to noclip through the floor by rapidly squashing and thrusting your body downward. Though this technique eludes you still, as you cannot defy the laws of physics, the sudden movement is enough to free yourself from the janitor's grasp.",
 "You quickly stride away down a nearby hallway to one of the locker areas. By now most of the students are in the cafeteria having lunch, but some are still on their way there.<br>Where do you go now?"
+]
+
+captions[16] = [
+"(You grab your lunchbox and walk to the cafeteria as inconspicuously as you can. Even before you can sit down and talk to anyone, there are some people who recognize you, and others who are minding their own business.)<br><br>Student: look its the freakadooky squeeky balooky spleeky . you friggle swibble sloppb . i bet you think you , umm .. go to the mars ..",
+"Accord: Hello. How do you do.<br><br>Student: your cant hide .. your weirdness .. you think your so normal.. freakle... go back to weirdo scool..<br><br>Accord: Are you enjoying this luncheon. The nutrient broth is delectable, is it not?<br><br>Student: you dont belong here.. your.. <b>IMPOSTER!!!</b>",
+"(He goes reaching for the middle of the table, looking for the Emergency Button, but it is not there anymore... hmm...)" 
 ]
 
 var commands = [ 
@@ -99,7 +105,8 @@ var commands = [
 "Run and hide in the janitor's storage room.",
 "notice the lye on the shelf. find the truth behind this lye.",
 "quickly drop the jar, go to the corner and do a headstand against the walls- your best impression of a Broom!",
-"escape by noclipping through the floor"
+"escape by noclipping through the floor",
+"act Normal and get your lunch like a Normal Student. Make Normal Small talk with the other Normal students, careful to take Normal sized bites of your food."
 ];
 
 class Panel {
