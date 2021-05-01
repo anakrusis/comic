@@ -45,7 +45,7 @@ for root, dirs, files in os.walk("C:\\amimifafa\\comic\\"):
                 else:
                     new_line = stripped_line;
 
-                print(new_line);
+                # print(new_line);
                 new_file_content += new_line + "\n"
                 
             readfile.close()

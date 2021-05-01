@@ -24,7 +24,7 @@ captions[4] = [
 ];
 
 captions[5] = [
-"A shiver travels down your spine and your heart races as you remember the terrible Dootos™ Incident...<br><br>One year ago, an unidentified masked person entered the campus carrying an incendiary explosive made from Spicy Hot Dootos™ dust. The entire school was suddenly engulfed in flames and evacuated.<br><br>You remember smelling the burnt Dooto™ dust everywhere... and the earth-shattering explosions in every direction... and... ██████████████...<br><br>It was never disclosed how many people lived or died. Discussing the Incident has been strictly forbidden ever since.",
+"A shiver travels down your spine and your heart races as you remember the terrible Dootos™ Incident which happened one year ago... you remember smelling the burnt Dooto™ dust everywhere... and the earth-shattering explosions in every direction... and... ██████████████...<br><br>You aren't quite sure what happened that day, as discussing the Incident has been strictly forbidden ever since.",
 
 "While you were having the flashbacks, a school administrator sneaks up behind you, suspicious of what you are up to.<br><br>Admin: <b>What are you doing with all these Dootos™???</b>"
 ]
@@ -90,6 +90,11 @@ captions[16] = [
 "(He goes reaching for the middle of the table, looking for the Emergency Button, but it is not there anymore... hmm...)" 
 ]
 
+captions[17] = [
+"(The nearest adult is that Administrator idly walking around the lunchroom. You get up from the table and grab his attention.)<br><br>Accord: Help! help! Student is being weird!!! Hes being very weird!!!<br><br>Admin: W-wh... huh?? Being... weird... you say? In all my years of working here, nobody has ever done that before... you know we have a zero-tolerance policy on... umm... well... can you tell me what's going on?",
+"Accord: It was him! He telled me I dont belong here! He telled me I'm freak then he started jumping on the table for no reason!!!<br><br>Student: YEA you <i>dont</i> belong here !! you crazy .. I read your post on face space ... you sound like a drugs person!!<br><br>Accord: No I'm are'nt!!!! I'm normal!!<br><br>Admin: ... mh... ummm... ...d-d-drugs...?<br><br>Student: yeah and you dicthed class all day didnt you!! i bet you were out smoking DRUG!!!!<br><br>(The administrator is confused and doesn't know whose story to follow.)" 
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
@@ -106,7 +111,8 @@ var commands = [
 "notice the lye on the shelf. find the truth behind this lye.",
 "quickly drop the jar, go to the corner and do a headstand against the walls- your best impression of a Broom!",
 "escape by noclipping through the floor",
-"act Normal and get your lunch like a Normal Student. Make Normal Small talk with the other Normal students, careful to take Normal sized bites of your food."
+"act Normal and get your lunch like a Normal Student. Make Normal Small talk with the other Normal students, careful to take Normal sized bites of your food.",
+"Alert the nearest teacher that Student is being *very* weird and we all know that's prohibited.",
 ];
 
 class Panel {
