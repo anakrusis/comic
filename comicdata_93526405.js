@@ -95,6 +95,11 @@ captions[17] = [
 "Accord: It was him! He telled me I dont belong here! He telled me I'm freak then he started jumping on the table for no reason!!!<br><br>Student: YEA you <i>dont</i> belong here !! you crazy .. I read your post on face space ... you sound like a drugs person!!<br><br>Accord: No I'm are'nt!!!! I'm normal!!<br><br>Admin: ... mh... ummm... ...d-d-drugs...?<br><br>Student: yeah and you dicthed class all day didnt you!! i bet you were out smoking DRUG!!!!<br><br>(The administrator is confused and doesn't know whose story to follow.)" 
 ]
 
+captions[18] = [
+"Accord: I did not post that! I did not!! I must have been hacked!! Look!!<br><br>(You take the Emergency Button out of your inventory and lay it out on the table.)<br><br>Accord: I was busy this whole time... umm... fixing the button, for the... for the safety of the school!<br><br>Admin: Why didn't you just... tell one of us it was broken? And what about all those Dootos™ earlier? Was that a part of the repairs too?",
+"With his eyes almost immediately fixed on the button, Student yells out \"ACCORD SUS!!! ACCORD IS THE IMPOSTER!!!\" and smashes the button. The glass covering shatters and bits fly everywhere. He runs away as a horrible shrieking alarm sound blares. The lights begin to dim."
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
@@ -113,6 +118,7 @@ var commands = [
 "escape by noclipping through the floor",
 "act Normal and get your lunch like a Normal Student. Make Normal Small talk with the other Normal students, careful to take Normal sized bites of your food.",
 "Alert the nearest teacher that Student is being *very* weird and we all know that's prohibited.",
+"Claim you must've been hacked, because you've spent the last laborious hour repairing the Emergency Button for the good of the school."
 ];
 
 class Panel {
