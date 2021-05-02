@@ -92,12 +92,17 @@ captions[16] = [
 
 captions[17] = [
 "(The nearest adult is that Administrator idly walking around the lunchroom. You get up from the table and grab his attention.)<br><br>Accord: Help! help! Student is being weird!!! Hes being very weird!!!<br><br>Admin: W-wh... huh?? Being... weird... you say? In all my years of working here, nobody has ever done that before... you know we have a zero-tolerance policy on... umm... well... can you tell me what's going on?",
-"Accord: It was him! He telled me I dont belong here! He telled me I'm freak then he started jumping on the table for no reason!!!<br><br>Student: YEA you <i>dont</i> belong here !! you crazy .. I read your post on face space ... you sound like a drugs person!!<br><br>Accord: No I'm are'nt!!!! I'm normal!!<br><br>Admin: ... mh... ummm... ...d-d-drugs...?<br><br>Student: yeah and you dicthed class all day didnt you!! i bet you were out smoking DRUG!!!!<br><br>(The administrator is confused and doesn't know whose story to follow.)" 
+"Accord: It was him! He telled me I dont belong here! He telled me I'm freak then he started jumping on the table for no reason!!!<br><br>Student: YEA you <i>dont</i> belong here !! your crazy .. I read your post on face space ... you sound like a drugs person!!<br><br>Accord: No I'm are'nt!!!! I'm normal!!<br><br>Admin: ... mh... ummm... ...d-d-drugs...?<br><br>Student: yeah and you dicthed class all day didnt you!! i bet you were out smoking DRUG!!!!<br><br>(The administrator is confused and doesn't know whose story to follow.)" 
 ]
 
 captions[18] = [
 "Accord: I did not post that! I did not!! I must have been hacked!! Look!!<br><br>(You take the Emergency Button out of your inventory and lay it out on the table.)<br><br>Accord: I was busy this whole time... umm... fixing the button, for the... for the safety of the school!<br><br>Admin: Why didn't you just... tell one of us it was broken? And what about all those Dootos™ earlier? Was that a part of the repairs too?",
-"With his eyes almost immediately fixed on the button, Student yells out \"ACCORD SUS!!! ACCORD IS THE IMPOSTER!!!\" and smashes the button. The glass covering shatters and bits fly everywhere. He runs away as a horrible shrieking alarm sound blares. The lights begin to dim."
+"With his eyes almost immediately fixed on the button, Student yells out <b>\"ACCORD SUS!!! ACCORD IS THE IMPOSTER!!!\"</b> and smashes the button. The glass covering shatters and bits fly everywhere. He runs away as a horrible shrieking alarm sound blares. The lights begin to dim."
+]
+
+captions[19] = [
+"(The alarm continues sounding louder and louder as everyone huddles around the table to see what's going on)<br><br>Accord: See...? I was right! It works!! I fixed it!! Haha...<br><br>Admin: I don't believe it was ever broken!!",
+"Admin: Now... Honda Accord... you do realize we have a zero-tolerance policy... for any and all subversive behavior...<br><br>If we find that, with the proper evaluation, you truly do not belong here, then... there are a few things which could happen next... We might have to straighten you out and make you normal... or we might have to... mmm... (he pauses)"
 ]
 
 var commands = [ 
@@ -118,7 +123,8 @@ var commands = [
 "escape by noclipping through the floor",
 "act Normal and get your lunch like a Normal Student. Make Normal Small talk with the other Normal students, careful to take Normal sized bites of your food.",
 "Alert the nearest teacher that Student is being *very* weird and we all know that's prohibited.",
-"Claim you must've been hacked, because you've spent the last laborious hour repairing the Emergency Button for the good of the school."
+"Claim you must've been hacked, because you've spent the last laborious hour repairing the Emergency Button for the good of the school.",
+"Point out that, since the button is clearly working, your story checks out."
 ];
 
 class Panel {
