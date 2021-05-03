@@ -105,6 +105,12 @@ captions[19] = [
 "Admin: Now... Honda Accord... you do realize we have a zero-tolerance policy... for any and all subversive behavior...<br><br>If we find that, with the proper evaluation, you truly do not belong here, then... there are a few things which could happen next... We might have to straighten you out and make you normal... or we might have to... mmm... (he pauses)"
 ]
 
+captions[20] = [
+"Accord: Sir, this is simply the nature of my normal teenageosity, sir!! <b>Come back here!!</b> This is normal for kids my age!! I promise to act goodly from here on! I've learnted my lesson!!<br><br>Admin: No, no, no... no one else here acts the way you do, Accord... You act like a dozen raccoons in a trench coat... (grumble grumble)...<br>...Oh, and when lunch ends, you better get back to class! I don't want to see you wandering around anymore!! <i>Understood??</i>",
+
+"(Whew... he let you off the hook this time...? The emergency meeting is over, but a pervasive feeling resides within you that you are still being watched...)<br><br>(Lunchtime is coming to an end now, and it would be a wise decision for you to head to your next class, General Mathematics 2 (with cheese). After all, the Very Important Exam is coming soon, and that's a test you <i>really</i> don't want to flunk." 
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
@@ -124,7 +130,8 @@ var commands = [
 "act Normal and get your lunch like a Normal Student. Make Normal Small talk with the other Normal students, careful to take Normal sized bites of your food.",
 "Alert the nearest teacher that Student is being *very* weird and we all know that's prohibited.",
 "Claim you must've been hacked, because you've spent the last laborious hour repairing the Emergency Button for the good of the school.",
-"Point out that, since the button is clearly working, your story checks out."
+"Point out that, since the button is clearly working, your story checks out.",
+"say \"understood sir. i believe that this outburst may have been an act of teenage rebellion, which is quite normal for kids my age. Now, if you let me go, ill promise to have learned my lesson and continue to be a Normal Good Kid.\""
 ];
 
 class Panel {
