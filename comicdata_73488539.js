@@ -108,7 +108,12 @@ captions[19] = [
 captions[20] = [
 "Accord: Sir, this is simply the nature of my normal teenageosity, sir!! <b>Come back here!!</b> This is normal for kids my age!! I promise to act goodly from here on! I've learnted my lesson!!<br><br>Admin: No, no, no... no one else here acts the way you do, Accord... You act like a dozen raccoons in a trench coat... (grumble grumble)...<br>...Oh, and when lunch ends, you better get back to class! I don't want to see you wandering around anymore!! <i>Understood??</i>",
 
-"(Whew... he let you off the hook this time...? The emergency meeting is over, but a pervasive feeling resides within you that you are still being watched...)<br><br>(Lunchtime is coming to an end now, and it would be a wise decision for you to head to your next class, General Mathematics 2 (with cheese). After all, the Very Important Exam is coming soon, and that's a test you <i>really</i> don't want to flunk." 
+"(Whew... he let you off the hook this time...? The emergency meeting is over, but a pervasive feeling resides within you that you are still being watched...)<br><br>(Lunchtime is coming to an end now, and it would be a wise decision for you to head to your next class, General Mathematics 2 (with cheese). After all, the Very Important Exam is coming soon, and that's a test you <i>really</i> don't want to flunk... (but if the urge comes to you to continue skipping class, there is truly nothing you can do to stop it...))" 
+]
+
+captions[21] = [
+"After lunch, you exit the cafeteria and head towards the familiar hallway. You walk over to your locker to get your trusty block of Calculytic Cheese, a neccessary course material for General Mathematics 2, when--<br><br>Good heavens... a rotten, nasty smell is emanating from the locker of yours...",
+"You suddenly realize you left your Cheese in the locker all weekend, and now it is moldy and rank... you begin imagining what will happen next... you have no clue how to explain this to the math teacher when you get to class.<br><br>(Little do you know, there is a Sniffy Sniffy Dog homing in on the disgusting odor, about to confront you.)"
 ]
 
 var commands = [ 
@@ -131,7 +136,8 @@ var commands = [
 "Alert the nearest teacher that Student is being *very* weird and we all know that's prohibited.",
 "Claim you must've been hacked, because you've spent the last laborious hour repairing the Emergency Button for the good of the school.",
 "Point out that, since the button is clearly working, your story checks out.",
-"say \"understood sir. i believe that this outburst may have been an act of teenage rebellion, which is quite normal for kids my age. Now, if you let me go, ill promise to have learned my lesson and continue to be a Normal Good Kid.\""
+"say \"understood sir. i believe that this outburst may have been an act of teenage rebellion, which is quite normal for kids my age. Now, if you let me go, ill promise to have learned my lesson and continue to be a Normal Good Kid.\"",
+"Retrieve your cheese from your locker to prepare for General Mathematics 2."
 ];
 
 class Panel {
