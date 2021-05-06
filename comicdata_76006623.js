@@ -116,6 +116,12 @@ captions[21] = [
 "You suddenly realize you left your Cheese in the locker all weekend, and now it is moldy and rank... you begin imagining what will happen next... you have no clue how to explain this to the math teacher when you get to class.<br><br>(Little do you know, there is a Sniffy Sniffy Dog homing in on the disgusting odor, about to confront you.)"
 ]
 
+captions[22] = [
+"The Sniffy Sniffy Dog is fine with being petted, but is more fixated on the Cheese, which it devours in a single gulp. The Dog makes a happy noise and, since there is nothing else in your locker, moves along soon afterward.",
+
+"You begin walking to math class utterly Cheeseless. You are now even more worried about what you will say to the teacher, if you even decide to enter the classroom at all.<br><br>You hope Mr. Binton will have a loaner Cheese you can borrow... or perhaps one of the students... but either way it would still be embarassing to ask in front of everyone..."
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
@@ -137,7 +143,8 @@ var commands = [
 "Claim you must've been hacked, because you've spent the last laborious hour repairing the Emergency Button for the good of the school.",
 "Point out that, since the button is clearly working, your story checks out.",
 "say \"understood sir. i believe that this outburst may have been an act of teenage rebellion, which is quite normal for kids my age. Now, if you let me go, ill promise to have learned my lesson and continue to be a Normal Good Kid.\"",
-"Retrieve your cheese from your locker to prepare for General Mathematics 2."
+"Retrieve your cheese from your locker to prepare for General Mathematics 2.",
+"pet the dog."
 ];
 
 class Panel {
