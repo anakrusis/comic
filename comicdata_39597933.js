@@ -122,6 +122,12 @@ captions[22] = [
 "You begin walking to math class utterly Cheeseless. You are now even more worried about what you will say to the teacher, if you even decide to enter the classroom at all.<br><br>You hope Mr. Binton will have a loaner Cheese you can borrow... or perhaps one of the students... but either way it would still be embarassing to ask in front of everyone..."
 ]
 
+captions[23] = [
+"Boxhead is quite a bit taller than you, so you stand on tiptoes and manage to grab a piece of his wonderfully cubical head. He doesn't feel a thing.",
+
+"(You enter the classroom and take a seat.)<br><br>Mr. Binton: Hello class, everyone, get out your Calculytic Cheeses... oh! Boxhead! Have you gotten a haircut?<br><br>Boxhead: Huh?<br><br>(You are unnoticed right now. You hope that the piece you have acquired will work just as well as a real Calculytic Cheese block... wait... how does the Calculytic Cheese work anyways?)<br><br>Mr. Binton: Okay class, this is crucial information we will be reviewing today. You can expect this to be present on the Very Important Exam. We will be performing three simple calculations, using the technique of completing the cheese slice... can anyone solve these quadratic formaggi?" 
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
@@ -144,7 +150,8 @@ var commands = [
 "Point out that, since the button is clearly working, your story checks out.",
 "say \"understood sir. i believe that this outburst may have been an act of teenage rebellion, which is quite normal for kids my age. Now, if you let me go, ill promise to have learned my lesson and continue to be a Normal Good Kid.\"",
 "Retrieve your cheese from your locker to prepare for General Mathematics 2.",
-"pet the dog."
+"pet the dog.",
+"Sneakily tear off a piece of Boxhead and use it as your Cheese"
 ];
 
 class Panel {
