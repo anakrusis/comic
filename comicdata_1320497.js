@@ -128,6 +128,12 @@ captions[23] = [
 "(You enter the classroom and take a seat.)<br><br>Mr. Binton: Hello class, everyone, get out your Calculytic Cheeses... oh! Boxhead! Have you gotten a haircut?<br><br>Boxhead: Huh?<br><br>(You are unnoticed right now. You hope that the piece you have acquired will work just as well as a real Calculytic Cheese block... wait... how does the Calculytic Cheese work anyways?)<br><br>Mr. Binton: Okay class, this is crucial information we will be reviewing today. You can expect this to be present on the Very Important Exam. We will be performing three simple calculations, using the technique of completing the cheese slice... can anyone solve these quadratic formaggi?" 
 ]
 
+captions[24] = [
+"You use Boxhead's head fragment as if it were a regular Cheese, and it works almost as well.<br><br>You try working your way through some of the math problems during class time. The questions appear to be ramping up in difficulty. Nevertheless, you feel somewhat more prepared for the Very Important Exam as time goes by, and this is a welcomed change.",
+
+"(Class is almost over now, but the teacher has a little bit more to say)<br><br>Mr. Binton: Nice work today, everyone, good job working on these problems. It only gets more difficult from here on! Now now, is there anyone who would like me to go over anything else for today?"
+]
+
 var commands = [ 
 "begin",
 "name: Honda accord",
@@ -151,7 +157,8 @@ var commands = [
 "say \"understood sir. i believe that this outburst may have been an act of teenage rebellion, which is quite normal for kids my age. Now, if you let me go, ill promise to have learned my lesson and continue to be a Normal Good Kid.\"",
 "Retrieve your cheese from your locker to prepare for General Mathematics 2.",
 "pet the dog.",
-"Sneakily tear off a piece of Boxhead and use it as your Cheese"
+"Sneakily tear off a piece of Boxhead and use it as your Cheese",
+"participate in the class just as if it were a regular day of class...because it is",
 ];
 
 class Panel {
