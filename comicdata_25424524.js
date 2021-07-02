@@ -137,7 +137,12 @@ captions[24] = [
 captions[25] = [
 "Mr. Binton: Okay, there is time for one more question... Accord, yes? Have you got a real question or are you just going to pull my leg?<br><br>Accord: Teacher, can we review the 'DEES' theorem?<br><br>Mr. Binton: sigh...",
 "(Mr. Binton takes a deep breath and begins to explain.)<br><br>You see, this is a theorem put forth early on in the history of Calculytic Cheese Technique... it details proper usage such that you are able to effectively make calculations without a great chance of error. The name stands for \"Detrimental Effects of Excessive Slicing\", forming the basis of modern Cheese Calculation practice.<br><br>As described in the Meditationes De Caseo, the early Queasian scholars and cheesic clerics were wont to divide the cheese into as many portions as possible, in pursuit of enlightening knowledge. They took their styli and chiseled as far as could go, but to their dismay, they were met with only confusion and sorrow.<br><br>Nero Eutychus Rullus Dalmatius was the first to suggest an ordered scheme of operations with a limited set of quaesic divisions as an alternative to the older methods. He writes that \"...too many sectors on the square makes one's heart sick and weary, like too many quails in the field...\"",
-"Mr. Binton: Oh, my, have I been talking too long? (It feels like hours have passed.) The bell must have already rung! Class is dismissed, everyone! Go home and study hard, everyone! The Test is in four days!!<br><br>You are free to go home now, but you are still carrying Boxhead's head fragment. Is there something you want to do with that first?"
+"Mr. Binton: Oh, my, have I been talking too long? (It feels like hours have passed.) The bell must have already rung! Class is dismissed, everyone! Go home and study hard, everyone! The Test is in four days!!<br><br>(You are free to go home now, but you are still carrying Boxhead's head fragment. Is there something you want to do with that first?)"
+]
+
+captions[26] = [
+"After inspecting it briefly. you attempt to chew on Boxhead's head fragment. It has an absurdly potent woody, herbal taste, and produces a blistering, burning sensation of pain in your mouth.<br><br>It is much too dry and concentrated to be chewed or eaten yet. You spit it out almost immediately.",
+"You are out walking in the hallways. Other students are minding their business and took no notice of your painful episode moments earlier. You continue holding the fragment as you walk along.<br><br>You may want to wash the fragment down with some sort of beverage before attempting to chew it again. There are a few choices: the water fountain and restrooms are down the hall, and there is a vending machine which sells soda pop near the school entrance."
 ]
 
 var commands = [ 
@@ -165,7 +170,8 @@ var commands = [
 "pet the dog.",
 "Sneakily tear off a piece of Boxhead and use it as your Cheese",
 "participate in the class just as if it were a regular day of class...because it is",
-"\"Teacher, can we review the 'DEES' theorem?\""
+"\"Teacher, can we review the 'DEES' theorem?\"",
+"Attempt to put the head fragment in your mouth and chew."
 ];
 
 class Panel {
