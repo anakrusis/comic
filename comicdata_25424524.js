@@ -141,7 +141,7 @@ captions[25] = [
 ]
 
 captions[26] = [
-"After inspecting it briefly. you attempt to chew on Boxhead's head fragment. It has an absurdly potent woody, herbal taste, and produces a blistering, burning sensation of pain in your mouth.<br><br>It is much too dry and concentrated to be chewed or eaten yet. You spit it out almost immediately.",
+"After inspecting it briefly. you attempt to chew on Boxhead's head fragment. At first you taste an extremely potent woody and herbal flavor. Then, suddenly, a blistering sensation of pain scorches the inside of your mouth.<br><br>It is much too dry and concentrated to be chewed or eaten yet. You spit it out almost immediately.",
 "You are out walking in the hallways. Other students are minding their business and took no notice of your painful episode moments earlier. You continue holding the fragment as you walk along.<br><br>You may want to wash the fragment down with some sort of beverage before attempting to chew it again. There are a few choices: the water fountain and restrooms are down the hall, and there is a vending machine which sells soda pop near the school entrance."
 ]
 
